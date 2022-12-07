@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "edu.itvo.quotescelebrities.app-mergeDebugResources-52:/layout/app_bar_drawer_navigation.xml",
+        "source": "edu.itvo.quotescelebrities.app-main-55:/layout/app_bar_drawer_navigation.xml"
+    },
+    {
+        "merged": "edu.itvo.quotescelebrities.app-mergeDebugResources-52:/layout/fragment_login.xml",
+        "source": "edu.itvo.quotescelebrities.app-main-55:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "edu.itvo.quotescelebrities.app-mergeDebugResources-52:/layout/fragment_quote_add.xml",
+        "source": "edu.itvo.quotescelebrities.app-main-55:/layout/fragment_quote_add.xml"
+    },
+    {
+        "merged": "edu.itvo.quotescelebrities.app-mergeDebugResources-52:/layout/activity_drawer_navigation.xml",
+        "source": "edu.itvo.quotescelebrities.app-main-55:/layout/activity_drawer_navigation.xml"
+    },
+    {
+        "merged": "edu.itvo.quotescelebrities.app-mergeDebugResources-52:/layout/fragment_quote_list.xml",
+        "source": "edu.itvo.quotescelebrities.app-main-55:/layout/fragment_quote_list.xml"
+    },
+    {
+        "merged": "edu.itvo.quotescelebrities.app-mergeDebugResources-52:/layout/fragment_quote_edit.xml",
+        "source": "edu.itvo.quotescelebrities.app-main-55:/layout/fragment_quote_edit.xml"
+    },
+    {
+        "merged": "edu.itvo.quotescelebrities.app-mergeDebugResources-52:/layout/fragment_quote_random.xml",
+        "source": "edu.itvo.quotescelebrities.app-main-55:/layout/fragment_quote_random.xml"
+    },
+    {
+        "merged": "edu.itvo.quotescelebrities.app-mergeDebugResources-52:/layout/content_drawer_navigation.xml",
+        "source": "edu.itvo.quotescelebrities.app-main-55:/layout/content_drawer_navigation.xml"
+    },
+    {
+        "merged": "edu.itvo.quotescelebrities.app-mergeDebugResources-52:/layout/quote_item.xml",
+        "source": "edu.itvo.quotescelebrities.app-main-55:/layout/quote_item.xml"
+    },
+    {
+        "merged": "edu.itvo.quotescelebrities.app-mergeDebugResources-52:/layout/nav_header_drawer_navigation.xml",
+        "source": "edu.itvo.quotescelebrities.app-main-55:/layout/nav_header_drawer_navigation.xml"
+    },
+    {
+        "merged": "edu.itvo.quotescelebrities.app-mergeDebugResources-52:/layout/dialog_layout.xml",
+        "source": "edu.itvo.quotescelebrities.app-main-55:/layout/dialog_layout.xml"
+    }
+]

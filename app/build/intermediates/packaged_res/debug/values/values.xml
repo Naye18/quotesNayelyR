@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="bottom">8dp</dimen>
+    <dimen name="card_corner_radius">16dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="fragment_horizontal_margin">16dp</dimen>
+    <dimen name="fragment_vertical_margin">16dp</dimen>
+    <dimen name="left">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="padding">8dp</dimen>
+    <dimen name="right">8dp</dimen>
+    <dimen name="top">8dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="app_name">quotescelebrities</string>
+    <string name="author">Author</string>
+    <string name="delete">Eliminar</string>
+    <string name="dialog_ok">OK</string>
+    <string name="edit">Editar</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="id">Id</string>
+    <string name="login_failed">Usuario o password incorrecto</string>
+    <string name="menu_quote_add">Quotes add</string>
+    <string name="menu_quote_list">Quotes list</string>
+    <string name="menu_quote_randomly">Display quotes randomly</string>
+    <string name="menu_user_login">Login</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_subtitle">ITVO</string>
+    <string name="nav_header_title">Celebrities</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="quote">Quote</string>
+    <string name="quotes">Citas célebres</string>
+    <string name="save">Save</string>
+    <string name="saved">Guardado satisfactoriamente…</string>
+    <string name="title_activity_drawer_navigation">Drawer Navigation</string>
+    <string name="token_required">Token is required, please authenticate first</string>
+    <style name="Theme.Quotescelebrities" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+    <style name="Theme.Quotescelebrities.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.Quotescelebrities.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.Quotescelebrities.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+</resources>
